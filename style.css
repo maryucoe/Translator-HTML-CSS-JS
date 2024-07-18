@@ -1,0 +1,26 @@
+body{
+    background-color: #EEF4ED;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+}
+.translator-options {
+    display: flex;
+}
+
+.first-option{
+    margin-right: 386px;
+    border: #8DA9C4 2px solid;
+}
+
+.text{
+    resize: none;
+}
+
+.result{
+    resize: none;
+}
