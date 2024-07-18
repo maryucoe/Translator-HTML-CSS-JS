@@ -1,3 +1,3 @@
 # Translator-HTML-CSS-JS
 
-![image](https://github.com/user-attachments/assets/cf3b37c3-7de5-47b0-a49c-2a4c2116f720)
+![image](https://github.com/user-attachments/assets/eb3deef8-fad7-4e86-a97a-ba61e538ae05)
