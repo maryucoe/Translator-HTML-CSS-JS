@@ -12,11 +12,20 @@ body{
     display: flex;
 }
 
+
+.select1 {
+    appearance: none;
+  }
+  
+
 .first-option{
     margin-right: 386px;
-    border: #8DA9C4 2px solid;
 }
 
+select::-webkit-options-box {
+    border-color: #8DA9C4 ;
+  }
+  
 .text{
     resize: none;
 }
